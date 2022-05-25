@@ -17,7 +17,7 @@ jsonschema==2.6.0
 MarkupSafe==1.1.0
 maxminddb==1.4.1
 pycparser==2.19
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyMySQL==0.9.3
 pytz==2018.9
 requests==2.21.0
